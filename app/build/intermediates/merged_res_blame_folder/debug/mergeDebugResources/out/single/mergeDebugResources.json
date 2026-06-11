@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_price.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_price.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_bottom_sheet_manage_member.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\bottom_sheet_manage_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_edit_player.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_edit_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_tennis.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_tennis.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_placeholder_sport.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\placeholder_sport.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_dialog_delete_confirm.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\dialog_delete_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_badge_expired.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_badge_expired.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_fab_square.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_fab_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_placeholder_player.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\placeholder_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_group.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_add_photo.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_add_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_icon_circle_red_light.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_icon_circle_red_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_card_accent_decor.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_card_accent_decor.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_nav_active.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_nav_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_bottom_sheet_manage.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\bottom_sheet_manage.xml"
+    },
+    {
+        "merged": "com.example.playermanager.app-debug-33:/layout_dialog_delete_member.xml.flat",
+        "source": "com.example.playermanager.app-main-35:/layout/dialog_delete_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_badge_active.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_badge_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_item_sport.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\item_sport.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_icon_circle.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_icon_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_splash_logo.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_splash_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_player_form.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_player_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_dialog_delete_member.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\dialog_delete_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_field_box.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_field_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_header_lime.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_header_lime.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_member_detail.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_member_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_icon_circle_red.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_icon_circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_upload_dashed.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_upload_dashed.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_item_member.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\item_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_members_list.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_members_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_time.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_item_player.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\item_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_add_player.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_add_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_tag.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_ic_ball.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\ic_ball.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\layout_activity_view_sport.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_view_sport.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\drawable_bg_premium_badge.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\drawable\\bg_premium_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

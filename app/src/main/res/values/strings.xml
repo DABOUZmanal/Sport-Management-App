@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Sport</string>
+    <string name="title_main">Sport</string>
+    <string name="title_detail">Sport Details</string>
+    <string name="search_hint">Search sports...</string>
+    <string name="sports_suggestions">Sports Suggestions</string>
+    
+    <string name="label_name">NOM DE L\'INSTALLATION / TERRAIN</string>
+    <string name="label_location">EMPLACEMENT / CATÉGORIE</string>
+    <string name="label_description">DESCRIPTION</string>
+    <string name="label_opening">OUVERTURE</string>
+    <string name="label_price">PRIX / HEURE</string>
+    <string name="label_add_sport">Ajouter un Sport</string>
+    <string name="label_add_sport_desc">Remplissez les détails pour enregistrer une nouvelle discipline sportive au club.</string>
+    <string name="btn_save">Sauvegarder</string>
+    <string name="btn_cancel">Annuler</string>
+    
+    <string name="manage_sport">Manage Sport</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_edit_desc">Update sport details and stats</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_delete_desc">Remove sport from club roster</string>
+    
+    <string name="delete_confirm_title">Supprimer ce Sport?</string>
+    <string name="delete_confirm_msg">Cette action est irréversible. Toutes les données associées à %s seront définitivement effacées du système.</string>
+
+    <!-- Member Management (French) -->
+    <string name="title_members">Membres du Club</string>
+    <string name="title_player_management">Gestion des Membres</string>
+    <string name="search_members_hint">Rechercher des membres...</string>
+    <string name="stat_players">Membres</string>
+    <string name="stat_subscriptions">Abonnements</string>
+    <string name="stat_sports">Sports</string>
+    <string name="badge_active">Actif</string>
+    <string name="badge_expired">Expiré</string>
+    <string name="label_expiry_date">EXPIRATION DE L\'ABONNEMENT</string>
+    <string name="label_coach_name">NOM DE L\'ENTRAÎNEUR</string>
+    <string name="coach_prefix">Entraîneur %s</string>
+    <string name="joined_prefix">Membre depuis %s</string>
+    <string name="ntrp_format">NTRP %s</string>
+
+    <string name="title_member_detail">Détails du Membre</string>
+    <string name="label_full_name">NOM COMPLET</string>
+    <string name="label_phone">TÉLÉPHONE</string>
+    <string name="label_email">EMAIL</string>
+    <string name="label_play_level">NIVEAU DE JEU</string>
+    <string name="btn_edit">Modifier</string>
+    <string name="membership_premium">Membre Premium</string>
+    <string name="membership_standard">Membre Standard</string>
+
+    <string name="title_add_player">Ajouter un Membre</string>
+    <string name="title_edit_player">Modifier le Membre</string>
+    <string name="add_player_desc">Remplissez les détails pour enregistrer un nouveau membre du club.</string>
+    <string name="label_sport_type">TYPE DE SPORT</string>
+    <string name="label_ntrp_level">NIVEAU NTRP</string>
+    <string name="label_join_date">DATE D\'ADHÉSION</string>
+    <string name="label_membership_type">TYPE D\'ABONNEMENT</string>
+    <string name="label_player_photo">PHOTO DE PROFIL</string>
+    <string name="upload_photo_hint">Téléverser une photo haute résolution</string>
+    <string name="btn_save_en">Enregistrer</string>
+    <string name="btn_cancel_en">Annuler</string>
+
+    <string name="manage_member">Gérer le Membre</string>
+    <string name="action_edit_en">Modifier</string>
+    <string name="action_edit_member_desc">Mettre à jour les détails du membre</string>
+    <string name="action_delete_en">Supprimer</string>
+    <string name="action_delete_member_desc">Retirer le membre de la liste du club</string>
+
+    <string name="delete_member_title">Supprimer ce Membre?</string>
+    <string name="delete_member_msg">Cette action est irréversible. Toutes les données de %s seront définitivement effacées du système.</string>
+
+    <string name="toast_player_saved">Membre enregistré avec succès</string>
+    <string name="toast_player_error">Erreur lors de l\'enregistrement du membre</string>
+    <string name="toast_name_required">Veuillez entrer un nom complet</string>
+    <string name="toast_expiry_required">Veuillez sélectionner une date d\'expiration</string>
+    <string name="toast_image_error">Erreur lors de la copie de l\'image</string>
+</resources>

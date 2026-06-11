@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sports/Player icon centered in the safe zone (24dp inset on each side = 60dp usable) -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Running person icon -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M50.5,34.75c2.07,0 3.75,-1.68 3.75,-3.75s-1.68,-3.75 -3.75,-3.75 -3.75,1.68 -3.75,3.75 1.68,3.75 3.75,3.75zM42.63,45.13l2.25,10.5 7.87,0 0,-12.75 3.75,0 -5.63,-10.12c-0.56,-1.12 -1.69,-1.88 -2.99,-1.88h-0.38c-1.31,0 -2.44,0.75 -3,1.88L39,43.25l7.5,3.38 0,15.12 -3.75,0 0,-12.75 -3.75,-3.75z" />
+    </group>
+</vector>

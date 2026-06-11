@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#0A261C</color>
+    <color name="accent_lime">#C6EF28</color>
+    <color name="accent_lime_light">#E9F8B5</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error_red">#C62828</color>
+    <color name="error_red_light">#FFEBEE</color>
+    <color name="text_secondary">#757575</color>
+    <color name="search_bar_bg">#F1F1F1</color>
+    <color name="ic_launcher_background">#0A261C</color>
+
+    <!-- Member module design tokens -->
+    <color name="member_accent">#C8E63B</color>
+    <color name="nav_dark">#1A3A2A</color>
+    <color name="app_background">#F5F5F5</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="field_border">#E0E0E0</color>
+    <color name="premium_badge_bg">#C8E63B</color>
+    <color name="badge_expired_sage">#C5D4BC</color>
+    <color name="header_lime">#C8E63B</color>
+    <color name="dashboard_bg">#EEF2F0</color>
+</resources>

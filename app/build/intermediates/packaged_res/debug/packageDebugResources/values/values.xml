@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_lime">#C6EF28</color>
+    <color name="accent_lime_light">#E9F8B5</color>
+    <color name="app_background">#F5F5F5</color>
+    <color name="background_light">#F8F9FA</color>
+    <color name="badge_expired_sage">#C5D4BC</color>
+    <color name="black">#000000</color>
+    <color name="dashboard_bg">#EEF2F0</color>
+    <color name="error_red">#C62828</color>
+    <color name="error_red_light">#FFEBEE</color>
+    <color name="field_border">#E0E0E0</color>
+    <color name="header_lime">#C8E63B</color>
+    <color name="ic_launcher_background">#0A261C</color>
+    <color name="member_accent">#C8E63B</color>
+    <color name="nav_dark">#1A3A2A</color>
+    <color name="premium_badge_bg">#C8E63B</color>
+    <color name="primary_dark">#0A261C</color>
+    <color name="search_bar_bg">#F1F1F1</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFF</color>
+    <item name="tag_members_nav_wired" type="id"/>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_delete_desc">Remove sport from club roster</string>
+    <string name="action_delete_en">Supprimer</string>
+    <string name="action_delete_member_desc">Retirer le membre de la liste du club</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_edit_desc">Update sport details and stats</string>
+    <string name="action_edit_en">Modifier</string>
+    <string name="action_edit_member_desc">Mettre à jour les détails du membre</string>
+    <string name="add_player_desc">Remplissez les détails pour enregistrer un nouveau membre du club.</string>
+    <string name="app_name">Sport</string>
+    <string name="badge_active">Actif</string>
+    <string name="badge_expired">Expiré</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_cancel_en">Annuler</string>
+    <string name="btn_edit">Modifier</string>
+    <string name="btn_save">Sauvegarder</string>
+    <string name="btn_save_en">Enregistrer</string>
+    <string name="coach_prefix">Entraîneur %s</string>
+    <string name="delete_confirm_msg">Cette action est irréversible. Toutes les données associées à %s seront définitivement effacées du système.</string>
+    <string name="delete_confirm_title">Supprimer ce Sport?</string>
+    <string name="delete_member_msg">Cette action est irréversible. Toutes les données de %s seront définitivement effacées du système.</string>
+    <string name="delete_member_title">Supprimer ce Membre?</string>
+    <string name="joined_prefix">Membre depuis %s</string>
+    <string name="label_add_sport">Ajouter un Sport</string>
+    <string name="label_add_sport_desc">Remplissez les détails pour enregistrer une nouvelle discipline sportive au club.</string>
+    <string name="label_coach_name">NOM DE L\'ENTRAÎNEUR</string>
+    <string name="label_description">DESCRIPTION</string>
+    <string name="label_email">EMAIL</string>
+    <string name="label_expiry_date">EXPIRATION DE L\'ABONNEMENT</string>
+    <string name="label_full_name">NOM COMPLET</string>
+    <string name="label_join_date">DATE D\'ADHÉSION</string>
+    <string name="label_location">EMPLACEMENT / CATÉGORIE</string>
+    <string name="label_membership_type">TYPE D\'ABONNEMENT</string>
+    <string name="label_name">NOM DE L\'INSTALLATION / TERRAIN</string>
+    <string name="label_ntrp_level">NIVEAU NTRP</string>
+    <string name="label_opening">OUVERTURE</string>
+    <string name="label_phone">TÉLÉPHONE</string>
+    <string name="label_play_level">NIVEAU DE JEU</string>
+    <string name="label_player_photo">PHOTO DE PROFIL</string>
+    <string name="label_price">PRIX / HEURE</string>
+    <string name="label_sport_type">TYPE DE SPORT</string>
+    <string name="manage_member">Gérer le Membre</string>
+    <string name="manage_sport">Manage Sport</string>
+    <string name="membership_premium">Membre Premium</string>
+    <string name="membership_standard">Membre Standard</string>
+    <string name="ntrp_format">NTRP %s</string>
+    <string name="search_hint">Search sports...</string>
+    <string name="search_members_hint">Rechercher des membres...</string>
+    <string name="sports_suggestions">Sports Suggestions</string>
+    <string name="stat_players">Membres</string>
+    <string name="stat_sports">Sports</string>
+    <string name="stat_subscriptions">Abonnements</string>
+    <string name="title_add_player">Ajouter un Membre</string>
+    <string name="title_detail">Sport Details</string>
+    <string name="title_edit_player">Modifier le Membre</string>
+    <string name="title_main">Sport</string>
+    <string name="title_member_detail">Détails du Membre</string>
+    <string name="title_members">Membres du Club</string>
+    <string name="title_player_management">Gestion des Membres</string>
+    <string name="toast_expiry_required">Veuillez sélectionner une date d\'expiration</string>
+    <string name="toast_image_error">Erreur lors de la copie de l\'image</string>
+    <string name="toast_name_required">Veuillez entrer un nom complet</string>
+    <string name="toast_player_error">Erreur lors de l\'enregistrement du membre</string>
+    <string name="toast_player_saved">Membre enregistré avec succès</string>
+    <string name="upload_photo_hint">Téléverser une photo haute résolution</string>
+    <style name="FormFieldInput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">56dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:background">@drawable/bg_input</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="FormFieldLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textColor">@color/primary_dark</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawableTint">@color/primary_dark</item>
+    </style>
+    <style name="RoundedCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+    <style name="RoundedImage">
+        <item name="cornerSize">20dp</item>
+    </style>
+    <style name="ShapeAppearance.FAB.Square" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="Theme.PlayerManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_lime</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

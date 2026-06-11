@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\dialog_delete_confirm.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\dialog_delete_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\item_player.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\item_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_member_detail.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_member_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_view_sport.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_view_sport.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\bottom_sheet_manage.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\bottom_sheet_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_edit_player.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_edit_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\dialog_delete_member.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\dialog_delete_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\item_sport.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\item_sport.xml"
+    },
+    {
+        "merged": "com.example.playermanager.app-mergeDebugResources-32:/layout/dialog_delete_member.xml",
+        "source": "com.example.playermanager.app-main-35:/layout/dialog_delete_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\item_member.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\item_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_add_player.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_add_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\bottom_sheet_manage_member.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\bottom_sheet_manage_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_player_form.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_player_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-mergeDebugResources-32:\\layout\\activity_members_list.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.9\\com.example.playermanager.app-main-35:\\layout\\activity_members_list.xml"
+    }
+]
